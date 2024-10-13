@@ -1,0 +1,4 @@
+- FrontEnd
+    - Use "npm run dev" to start the FrontEnd Server.
+- BackEnd
+    - Use "npm run dev" to start the BackEnd Server.
